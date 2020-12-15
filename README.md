@@ -178,7 +178,7 @@ The mobile application is configured to allow only Customer Community Login user
 > Once you have established your connected app, copy the consumer key into the TrailIsurance/bootconfig.plist file using Xcode.
 
 ## Xcode Setup <a name="xcode"></a>
-
+<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 To load the project in Xcode, open the redwoods-insurance.xcodeproj file.
 
 This project should build and run on the simulator 'out of the box' if the submodules have been properly initialized. However, if you would like to run this on a physical iOS device, you'll need to specify your Team name in the project's settings.
